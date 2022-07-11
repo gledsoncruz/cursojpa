@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b52eb38-3ff7-4a81-b3cd-d60843bce212" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jpb/persistence-units.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/algajpa/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/algajpa/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/algajpa/util/IniciarUnidadeDePersistencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/banco-de-dados/dados-iniciais.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/algajpa/iniciandocomjpa/ConsultandoRegistrosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/algajpa/iniciandocomjpa/EntityManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/algajpa/iniciandocomjpa/OperacoesComTrasacaoTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2A4MjTf3RHdLK5DC5xwwntSiDe8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/projects/cursos/algajpa/src/main/java/br/com/algajpa&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projects/cursos/algajpa/src/main/resources/META-INF/persistence.xml&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.com.haulmont.jpb.tools&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.algajpa.iniciandocomjpa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OperacoesComTrasacaoTest.MostrarDiferencaPersisMerge">
+    <configuration name="OperacoesComTrasacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.algajpa.iniciandocomjpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.algajpa.iniciandocomjpa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.algajpa.iniciandocomjpa.OperacoesComTrasacaoTest" />
+      <option name="METHOD_NAME" value="removerObjeto" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacoesComTrasacaoTest.MostrarDiferencaPersisMerge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.algajpa.iniciandocomjpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.algajpa.iniciandocomjpa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.algajpa.iniciandocomjpa.OperacoesComTrasacaoTest" />
+      <option name="METHOD_NAME" value="MostrarDiferencaPersisMerge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacoesComTrasacaoTest.atualizarObjeto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.algajpa.iniciandocomjpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.algajpa.iniciandocomjpa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.algajpa.iniciandocomjpa.OperacoesComTrasacaoTest" />
+      <option name="METHOD_NAME" value="atualizarObjeto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacoesComTrasacaoTest.atualizarObjetoGerenciado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.algajpa.iniciandocomjpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.algajpa.iniciandocomjpa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.algajpa.iniciandocomjpa.OperacoesComTrasacaoTest" />
+      <option name="METHOD_NAME" value="atualizarObjetoGerenciado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacoesComTrasacaoTest.inserirObjetoComMerge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algajpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.algajpa.iniciandocomjpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.algajpa.iniciandocomjpa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.algajpa.iniciandocomjpa.OperacoesComTrasacaoTest" />
+      <option name="METHOD_NAME" value="inserirObjetoComMerge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OperacoesComTrasacaoTest.MostrarDiferencaPersisMerge" />
+        <item itemvalue="JUnit.OperacoesComTrasacaoTest.inserirObjetoComMerge" />
+        <item itemvalue="JUnit.OperacoesComTrasacaoTest.atualizarObjetoGerenciado" />
+        <item itemvalue="JUnit.OperacoesComTrasacaoTest.atualizarObjeto" />
+        <item itemvalue="JUnit.OperacoesComTrasacaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b52eb38-3ff7-4a81-b3cd-d60843bce212" name="Changes" comment="" />
+      <created>1654264544402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654264544402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
